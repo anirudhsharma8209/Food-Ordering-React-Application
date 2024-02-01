@@ -23,7 +23,7 @@ const Navigation = () => {
                 <span className='text-decoration-underline m-2 fw-bolder p-2'>
                   Home
                 </span>
-                <i class="bi bi-basket fs-4"></i>
+                <i className="bi bi-basket fs-4"></i>
               </li>
             </ul>
           </div>
